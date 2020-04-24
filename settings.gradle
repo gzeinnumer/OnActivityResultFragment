@@ -1,0 +1,2 @@
+rootProject.name='OnActivityResultFragment'
+include ':app'
